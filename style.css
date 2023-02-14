@@ -19,6 +19,7 @@
 
 body {
   font-size: 15px;
+  bacground-color:var(--light-gray);
 }
 
 /* Main Container */
@@ -28,7 +29,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0 auto;
-  transform: translateX(0%) translateY(25%);
+  transform: translateX(0%) translateY(30%);
   width: 80%;
   height: 500px;
 }
