@@ -28,7 +28,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0 auto;
-  transform: translateX(0%) translateY(50%);
+  transform: translateX(0%) translateY(25%);
   width: 80%;
   height: 500px;
 }
