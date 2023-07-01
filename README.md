@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Check here](https://www.frontendmentor.io/solutions/preview-card-woFUvjDQPQ)
+- Live Site URL: [Check here](https://celadon-semifreddo-5cf6d7.netlify.app/)
 
 ## My process
 
